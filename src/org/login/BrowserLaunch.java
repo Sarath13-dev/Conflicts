@@ -16,7 +16,8 @@ public class BrowserLaunch {
 		driver.get("https://www.facebook.com/");
 		driver.findElement(By.id("email")).sendKeys("ramsss");
 		driver.findElement(By.id("pass")).sendKeys("1234");
-		
+		System.out.println("New joiner B");
+		System.out.println("my work");
 		
 		
 		
