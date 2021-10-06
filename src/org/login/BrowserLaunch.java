@@ -18,6 +18,9 @@ public class BrowserLaunch {
 		driver.findElement(By.id("pass")).sendKeys("1234");
 		System.out.println("new joiner A");
 		System.out.println("A work");
+		System.out.println("New joiner B");
+		System.out.println("my work");
+
 		
 		
 		
